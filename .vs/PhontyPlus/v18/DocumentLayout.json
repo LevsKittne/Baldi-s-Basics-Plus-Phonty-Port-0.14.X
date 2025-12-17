@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplusphonty\\phonty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:phonty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplusphonty\\audiopatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:audiopatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplusphonty\\levelstudiosupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:levelstudiosupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplusphonty\\phontysavegameio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:phontysavegameio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplusphonty\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplusphonty\\gameclickabletext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:gameclickabletext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplusphonty\\phontymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:phontymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhontySaveGameIO.cs",
+              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\PhontySaveGameIO.cs",
+              "RelativeDocumentMoniker": "PhontySaveGameIO.cs",
+              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\PhontySaveGameIO.cs",
+              "RelativeToolTip": "PhontySaveGameIO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:10:39.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameClickableText.cs",
+              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\GameClickableText.cs",
+              "RelativeDocumentMoniker": "GameClickableText.cs",
+              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\GameClickableText.cs",
+              "RelativeToolTip": "GameClickableText.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAIAwwGEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T06:57:53.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelStudioSupport.cs",
+              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\LevelStudioSupport.cs",
+              "RelativeDocumentMoniker": "LevelStudioSupport.cs",
+              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\LevelStudioSupport.cs",
+              "RelativeToolTip": "LevelStudioSupport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T21:36:23.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhontyMenu.cs",
+              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\PhontyMenu.cs",
+              "RelativeDocumentMoniker": "PhontyMenu.cs",
+              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\PhontyMenu.cs",
+              "RelativeToolTip": "PhontyMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T11:52:40.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Phonty.cs",
+              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\Phonty.cs",
+              "RelativeDocumentMoniker": "Phonty.cs",
+              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\Phonty.cs",
+              "RelativeToolTip": "Phonty.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAuwCoBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T11:52:05.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioPatches.cs",
+              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\AudioPatches.cs",
+              "RelativeDocumentMoniker": "AudioPatches.cs",
+              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\AudioPatches.cs",
+              "RelativeToolTip": "AudioPatches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T11:51:12.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\Plugin.cs",
+              "RelativeDocumentMoniker": "Plugin.cs",
+              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\Plugin.cs",
+              "RelativeToolTip": "Plugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T11:49:43.053Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 786,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1588,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
