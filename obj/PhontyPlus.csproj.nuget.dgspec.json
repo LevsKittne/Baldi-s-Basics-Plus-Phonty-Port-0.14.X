@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\PhontyPlus.csproj": {}
+    "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\PhontyPlus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\PhontyPlus.csproj": {
+    "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\PhontyPlus.csproj": {
       "version": "4.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\PhontyPlus.csproj",
+        "projectUniqueName": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\PhontyPlus.csproj",
         "projectName": "PhontyPlus",
-        "projectPath": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\PhontyPlus.csproj",
+        "projectPath": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\PhontyPlus.csproj",
         "packagesPath": "C:\\Users\\SystemX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\obj\\",
+        "outputPath": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

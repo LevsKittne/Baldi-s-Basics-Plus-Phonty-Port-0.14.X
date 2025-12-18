@@ -40,27 +40,27 @@ namespace PhontyPlus {
                 1f, 3600f,
                 "s",
                 new Vector2(0f, -10f),
-                "Click to type duration (1s - 3600s)."
+                "Click to type duration (1s - 3600s). <color=#008000ff>Default: 20"
             );
 
             CreateClickableTextInt(
                 "WindUpTimeBtn",
                 "Wind Up: ",
                 timeLeftUntilMad,
-                10, 600,
+                1, 3600,
                 "s",
                 new Vector2(0f, -50f),
-                "Click to type wind up time (10s - 600s)."
+                "Click to type wind up time (1s - 3600s). <color=#008000ff>Default: 180"
             );
 
             CreateClickableTextFloat(
                 "ChaseSpeedBtn",
                 "Speed: ",
                 chaseSpeedConfig,
-                5f, 100f,
+                1f, 1000f,
                 "",
                 new Vector2(0f, -90f),
-                "Click to type chase speed (5 - 100)."
+                "Click to type chase speed (1 - 1000). <color=#008000ff>Default: 20"
             );
 
             guaranteeSpawnToggle = CreateToggle(

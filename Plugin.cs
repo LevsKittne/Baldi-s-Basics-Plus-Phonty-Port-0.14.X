@@ -20,7 +20,7 @@ namespace PhontyPlus {
     public class Mod : BaseUnityPlugin {
         public const string ModName = "Phonty";
         public const string ModGuid = "levs_kittne.baldiplus.phonty";
-        public const string ModVersion = "4.0.3";
+        public const string ModVersion = "4.0.4";
 
         public static AssetManager assetManager = new AssetManager();
 

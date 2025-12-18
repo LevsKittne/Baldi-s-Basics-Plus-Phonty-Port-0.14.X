@@ -13,6 +13,7 @@ using HarmonyLib;
 namespace PhontyPlus {
     public class Phonty : NPC, IClickable<int> {
         public static Sprite idle;
+        public static Sprite deafIcon;
         public static List<SoundObject> records = new List<SoundObject>();
         public static AssetManager audios = new AssetManager();
         public static List<Sprite> emergeFrames = new List<Sprite>();
@@ -30,6 +31,14 @@ namespace PhontyPlus {
         public static void LoadAssets() {
             var PIXELS_PER_UNIT = 26f;
             idle = AssetLoader.SpriteFromTexture2D(AssetLoader.TextureFromMod(Mod.Instance, "Textures", "Phonty_Idle.png"), PIXELS_PER_UNIT);
+
+            try {
+                deafIcon = AssetLoader.SpriteFromTexture2D(AssetLoader.TextureFromMod(Mod.Instance, "Textures", "Player_Deaf_Icon.png"), 50f);
+            }
+            catch {
+                deafIcon = idle;
+            }
+
             audios.Add("angryIntro", ObjectCreators.CreateSoundObject(AssetLoader.AudioClipFromMod(Mod.Instance, "Audio", "PhontyIntro.ogg"), "Phonty_Vfx_Intro", SoundType.Voice, Color.yellow));
             audios.Add("angry", ObjectCreators.CreateSoundObject(AssetLoader.AudioClipFromMod(Mod.Instance, "Audio", "PhontyAngry.ogg"), "Phonty_Vfx_Angry", SoundType.Voice, Color.yellow));
             audios.Add("shockwave", ObjectCreators.CreateSoundObject(AssetLoader.AudioClipFromMod(Mod.Instance, "Audio", "PhontyShot.ogg"), "Phonty_Sfx_Shot", SoundType.Effect, Color.yellow));
@@ -42,17 +51,21 @@ namespace PhontyPlus {
             emergeFrames.AddRange(AssetLoader.SpritesFromSpritesheet(4, 4, PIXELS_PER_UNIT, Vector2.one / 2f, AssetLoader.TextureFromMod(Mod.Instance, "Textures", "Phonty_Emerge1.png")));
 
             Sprite[] emergeSheet2 = AssetLoader.SpritesFromSpritesheet(4, 2, PIXELS_PER_UNIT, Vector2.one / 2f, AssetLoader.TextureFromMod(Mod.Instance, "Textures", "Phonty_Emerge2.png"));
-            for (int i = 7; i > 5; i--)
+            for (int i = 7; i > 5; i--) {
                 Object.DestroyImmediate(emergeSheet2[i]);
-            for (int i = 0; i < 6; i++)
+            }
+            for (int i = 0; i < 6; i++) {
                 emergeFrames.Add(emergeSheet2[i]);
+            }
 
             chaseFrames.AddRange(AssetLoader.SpritesFromSpritesheet(4, 4, PIXELS_PER_UNIT, Vector2.one / 2f, AssetLoader.TextureFromMod(Mod.Instance, "Textures", "Phonty_Chase0.png")));
             chaseFrames.AddRange(AssetLoader.SpritesFromSpritesheet(4, 1, PIXELS_PER_UNIT, Vector2.one / 2f, AssetLoader.TextureFromMod(Mod.Instance, "Textures", "Phonty_Chase1.png")));
 
             var recordsFolder = Directory.GetFiles(Path.Combine(AssetLoader.GetModPath(Mod.Instance), "Audio", "Records"));
             foreach (var path in recordsFolder)
+            {
                 records.Add(ObjectCreators.CreateSoundObject(AssetLoader.AudioClipFromFile(path), "Phonty_Vfx_Record", SoundType.Voice, Color.yellow));
+            }
         }
 
         public override void Initialize() {
@@ -172,17 +185,40 @@ namespace PhontyPlus {
 
         private IEnumerator DeafenPlayer() {
             yield return new WaitForSeconds(0.5f);
+
+            float duration = PhontyMenu.deafTimeConfig.Value;
+            float timer = duration;
+            HudGauge gauge = null;
+
+            var hud = Singleton<CoreGameManager>.Instance.GetHud(0);
+            if (hud != null) {
+                var gaugeManager = hud.GetComponentInChildren<HudGaugeManager>();
+                if (gaugeManager != null) {
+                    gauge = gaugeManager.ActivateNewGauge(deafIcon, duration);
+                }
+            }
+
             deafPlayer = true;
             AudioListener.volume = 0.01f;
             if (Mod.GlobalMixer != null)
                 Mod.GlobalMixer.SetFloat("EchoWetMix", 1f);
 
-            yield return new WaitForSeconds(PhontyMenu.deafTimeConfig.Value);
+            while (timer > 0f) {
+                timer -= Time.deltaTime;
+                if (gauge != null) {
+                    gauge.SetValue(duration, timer);
+                }
+                yield return null;
+            }
 
             deafPlayer = false;
             AudioListener.volume = 1f;
             if (Mod.GlobalMixer != null)
                 Mod.GlobalMixer.SetFloat("EchoWetMix", 0f);
+
+            if (gauge != null) {
+                gauge.Deactivate();
+            }
         }
 
         public bool ClickableHidden() => angry;

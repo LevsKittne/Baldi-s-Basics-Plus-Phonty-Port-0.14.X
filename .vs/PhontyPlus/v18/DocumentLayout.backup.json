@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\",
+  "WorkspaceRootPath": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplus-phonty-master\\phonty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:phonty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplus-phonty-master\\audiopatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:audiopatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplus-phonty-master\\levelstudiosupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:levelstudiosupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplus-phonty-master\\phontysavegameio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:phontysavegameio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplus-phonty-master\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplusphonty\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplus-phonty-master\\gameclickabletext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplusphonty\\phontymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:phontymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplusphonty\\phontysavegameio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:phontysavegameio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplusphonty\\phonty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:phonty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplusphonty\\levelstudiosupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:levelstudiosupport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplusphonty\\gameclickabletext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:gameclickabletext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplus-phonty-master\\phontymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:phontymenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|c:\\users\\systemx\\desktop\\baldiplusphonty\\audiopatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1374AFD6-A149-4708-930F-EFF72893FCD2}|PhontyPlus.csproj|solutionrelative:audiopatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PhontySaveGameIO.cs",
-              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\PhontySaveGameIO.cs",
+              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\PhontySaveGameIO.cs",
               "RelativeDocumentMoniker": "PhontySaveGameIO.cs",
-              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\PhontySaveGameIO.cs",
+              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\PhontySaveGameIO.cs",
               "RelativeToolTip": "PhontySaveGameIO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T08:10:39.224Z",
               "EditorCaption": ""
@@ -65,74 +65,76 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GameClickableText.cs",
-              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\GameClickableText.cs",
+              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\GameClickableText.cs",
               "RelativeDocumentMoniker": "GameClickableText.cs",
-              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\GameClickableText.cs",
+              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\GameClickableText.cs",
               "RelativeToolTip": "GameClickableText.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAIAwwGEAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T06:57:53.721Z"
+              "WhenOpened": "2025-12-17T06:57:53.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LevelStudioSupport.cs",
-              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\LevelStudioSupport.cs",
+              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\LevelStudioSupport.cs",
               "RelativeDocumentMoniker": "LevelStudioSupport.cs",
-              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\LevelStudioSupport.cs",
+              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\LevelStudioSupport.cs",
               "RelativeToolTip": "LevelStudioSupport.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T21:36:23.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "PhontyMenu.cs",
-              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\PhontyMenu.cs",
+              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\PhontyMenu.cs",
               "RelativeDocumentMoniker": "PhontyMenu.cs",
-              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\PhontyMenu.cs",
+              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\PhontyMenu.cs",
               "RelativeToolTip": "PhontyMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T11:52:40.533Z"
+              "WhenOpened": "2025-12-16T11:52:40.533Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Phonty.cs",
-              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\Phonty.cs",
+              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\Phonty.cs",
               "RelativeDocumentMoniker": "Phonty.cs",
-              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\Phonty.cs",
+              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\Phonty.cs",
               "RelativeToolTip": "Phonty.cs",
-              "ViewState": "AgIAAB0BAAAAAAAAAAAYwDUBAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T11:52:05.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "AudioPatches.cs",
-              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\AudioPatches.cs",
+              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\AudioPatches.cs",
               "RelativeDocumentMoniker": "AudioPatches.cs",
-              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\AudioPatches.cs",
+              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\AudioPatches.cs",
               "RelativeToolTip": "AudioPatches.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T11:51:12.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Plugin.cs",
-              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\Plugin.cs",
               "RelativeDocumentMoniker": "Plugin.cs",
-              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlus-Phonty-master\\Plugin.cs",
+              "ToolTip": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\Plugin.cs",
               "RelativeToolTip": "Plugin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T11:49:43.053Z",
               "EditorCaption": ""

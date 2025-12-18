@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhontyPlus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("4.0.1")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("4.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("4.0.1+af449b1accb031e51cbf105d2c38182137e16ed2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhontyPlus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhontyPlus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("4.0.1.0")]
