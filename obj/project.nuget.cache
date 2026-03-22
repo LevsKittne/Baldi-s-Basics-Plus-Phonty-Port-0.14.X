@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "nmL6Nkpk8Lg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SystemX\\Desktop\\BaldiPlusPhonty\\PhontyPlus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SystemX\\.nuget\\packages\\asmresolver\\5.5.1\\asmresolver.5.5.1.nupkg.sha512",
+    "C:\\Users\\SystemX\\.nuget\\packages\\asmresolver.dotnet\\5.5.1\\asmresolver.dotnet.5.5.1.nupkg.sha512",
+    "C:\\Users\\SystemX\\.nuget\\packages\\asmresolver.pe\\5.5.1\\asmresolver.pe.5.5.1.nupkg.sha512",
+    "C:\\Users\\SystemX\\.nuget\\packages\\asmresolver.pe.file\\5.5.1\\asmresolver.pe.file.5.5.1.nupkg.sha512",
+    "C:\\Users\\SystemX\\.nuget\\packages\\bepinex.assemblypublicizer\\0.4.2\\bepinex.assemblypublicizer.0.4.2.nupkg.sha512",
+    "C:\\Users\\SystemX\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.2\\bepinex.assemblypublicizer.msbuild.0.4.2.nupkg.sha512",
+    "C:\\Users\\SystemX\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\SystemX\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SystemX\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\SystemX\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\SystemX\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\SystemX\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\SystemX\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\SystemX\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\SystemX\\.nuget\\packages\\system.text.json\\6.0.8\\system.text.json.6.0.8.nupkg.sha512",
+    "C:\\Users\\SystemX\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
